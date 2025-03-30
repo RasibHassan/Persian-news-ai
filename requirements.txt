@@ -9,3 +9,4 @@ pinecone
 pinecone-text
 nltk
 python-docx
+langchain-community
