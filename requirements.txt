@@ -1,0 +1,10 @@
+streamlit
+docx
+tqdm
+pandas
+hazm
+langchain
+langchain_openai
+pinecone-client
+pinecone-text
+nltk
