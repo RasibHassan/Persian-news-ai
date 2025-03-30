@@ -5,7 +5,7 @@ pandas
 hazm
 langchain
 langchain_openai
-pinecone-client
+pinecone
 pinecone-text
 nltk
 python-docx
